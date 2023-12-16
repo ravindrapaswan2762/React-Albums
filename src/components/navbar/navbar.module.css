@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: rgb(33,37,41);
+    /* #292727 */
+}
+
+.logo {
+    color: #fff;
+    font-size: 1.5em;
+}
+.add img {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    color: white;
+}
