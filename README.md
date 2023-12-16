@@ -15,7 +15,7 @@ This is a React-based web application for managing albums. Users can view, add, 
 
 # Getting Started
 * Clone the repository:
->> git clone https://github.com/your-username/album-management-app.git
+>> git clone https://github.com/ravindrapaswan2762/React-Albums.git
 
 * Install dependencies:
 >> cd album-management-app
